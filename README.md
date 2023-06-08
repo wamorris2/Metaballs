@@ -1,4 +1,5 @@
 # Metaballs
+![](images/metaballs.gif)
 
 ## Dependencies
 - [imgui](https://github.com/ocornut/imgui)
