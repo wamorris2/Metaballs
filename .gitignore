@@ -1,0 +1,5 @@
+lib/
+imgui.ini
+include/SFML
+include/imgui
+bin/
